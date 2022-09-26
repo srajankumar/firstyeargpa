@@ -1,0 +1,151 @@
+.btn {
+  background-color: #395b64;
+  border-radius: 12px;
+  color: #e4f0fb;
+  border-color: #000;
+  font-weight: bold;
+  padding: 10px 15px;
+  text-align: center;
+  transition: 200ms;
+  width: 100%;
+  box-sizing: border-box;
+  font-size: 16px;
+  margin-bottom: 50px;
+  max-width: 80%;
+  margin-left: 10%;
+}
+
+.hd {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.bd {
+  background: #212121;
+  color: #a5c9ca;
+}
+
+.inp {
+  background-color: #111111;
+  border-radius: 12px;
+  color: #e4f0fb;
+  border-color: #000;
+  font-weight: bold;
+  padding: 10px 15px;
+  text-align: center;
+  transition: 200ms;
+  width: 100%;
+  box-sizing: border-box;
+  font-size: 16px;
+  margin-bottom: 30px;
+  margin-top: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 50%;
+  margin-left: 25%;
+}
+
+.hd1 {
+  text-align: center;
+}
+
+.hd2 {
+  text-align: center;
+  font-size: 16px;
+  margin-bottom: 50px;
+}
+
+.bg1 {
+  background: #202930;
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+  color: rgb(211, 229, 245);
+  font-size: 12px;
+  margin-bottom: 100px;
+}
+
+.btn1 {
+  background-color: #395b64;
+  border-radius: 12px;
+  color: #e4f0fb;
+  border-color: #000;
+  font-weight: bold;
+  padding: 10px 15px;
+  text-align: center;
+  transition: 200ms;
+  width: 100%;
+  box-sizing: border-box;
+  font-size: 16px;
+  margin-bottom: 20px;
+  max-width: 60%;
+  margin-left: 20%;
+}
+
+.inp1 {
+  background-color: #8ba2b6;
+  border-radius: 12px;
+  color: #121212;
+  border-color: #000;
+  font-weight: bold;
+  padding: 10px 15px;
+  text-align: center;
+  transition: 200ms;
+  width: 100%;
+  box-sizing: border-box;
+  font-size: 16px;
+  margin-bottom: 30px;
+  margin-top: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 50%;
+  margin-left: 25%;
+}
+
+.inp2 {
+  background-color: #3a414c;
+  border-radius: 12px;
+  color: #e4f0fb;
+  border-color: #000;
+  font-weight: bold;
+  padding: 10px 15px;
+  text-align: center;
+  transition: 200ms;
+  width: 100%;
+  box-sizing: border-box;
+  font-size: 16px;
+  margin-bottom: 70px;
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 50%;
+  margin-left: 25%;
+}
+
+.txt {
+  color: #e4f0fb;
+}
+
+.inp3 {
+  background-color: #2e3233;
+  border-radius: 12px;
+  color: #e4f0fb;
+  border-color: #000;
+  font-weight: bold;
+  padding: 10px 15px;
+  text-align: center;
+  transition: 200ms;
+  width: 100%;
+  box-sizing: border-box;
+  font-size: 16px;
+  margin-bottom: 30px;
+  margin-top: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 50%;
+  margin-left: 25%;
+}

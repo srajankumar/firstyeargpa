@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1"content="width=device-height, initial-scale=1" /> 
+        <link rel="stylesheet" href="gpa2.css">
+        <script src="gpa2.js"></script>
+        <title>SEM 2 CHEMISTRY</title>
+    </head>
+    <body class="bd">
+        <h1 class="hd">ENTER TOTAL MARKS</h1>
+        <h2 class="hd2">OUT OF 100</h2>
+        <div>
+            <h2 class="hd1">MAT</h2>
+            <input type="text" id="mat" class="inp">
+        </div>
+        <div>
+            <h2 class="hd1">CHEM</h2>
+            <input type="text" id="che" class="inp">
+        </div>
+        <div>
+            <h2 class="hd1">CPS</h2>
+            <input type="text" id="cps" class="inp">
+        </div>
+        <div>
+            <h2 class="hd1">ELN</h2>
+            <input type="text" id="eln" class="inp">
+        </div>
+        <div>
+            <h2 class="hd1">EME</h2>
+            <input type="text" id="eme" class="inp">
+        </div>        
+        <div>
+            <h2 class="hd1">CHEL</h2>
+            <input type="text" id="chel" class="inp">
+        </div>
+        <div>
+            <h2 class="hd1">CPL</h2>
+            <input type="text" id="cpl" class="inp">
+        </div>
+        <div>
+            <h2 class="hd1">EGH</h2>
+            <input type="text" id="egh" class="inp">
+        </div>
+        <div>
+            <h2 class="hd1">IDT</h2>
+            <input type="text" id="sfh" class="inp">
+        </div>
+        <div>
+            <input type="button" value="CALCULATE" id="calc" class="btn" onclick="calculate();tot()"></input>
+            <h2 class="hd1">YOUR SGPA IS</h2>
+            <input type="text" class="inp3" id="res" disabled>
+        </div>
+        <div class="bg1">
+            <h1 class="hd">ENTER FIRST SEM GPA</h1>
+            <input type="text" class="inp1" id="gpa1" />
+            <input type="button" value="CALCULATE CGPA" class="btn1" onclick="tot()"></input>
+            <h2 class="hd1">YOUR FIRST YEAR CGPA IS</h2>
+            <input type="text" class="inp2" id="res1" disabled>
+        </div>
+    </body>
+</html>
