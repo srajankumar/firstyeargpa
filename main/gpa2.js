@@ -21,7 +21,7 @@ function calculate() {
 
   var z = ((aa + ab + ac + ad + ae + af + ag + ah + ai) / 200) * 10;
 
-  document.getElementById("res").value = parseFloat(z);
+  document.getElementById("res").value = parseFloat(z).toFixed(2);
 }
 
 function marks(y) {
@@ -39,5 +39,5 @@ function tot() {
   var a1 = parseFloat(document.getElementById("gpa1").value);
   var b1 = parseFloat(document.getElementById("res").value);
   var c1 = (a1 + b1) / 2;
-  document.getElementById("res1").value = parseFloat(c1);
+  document.getElementById("res1").value = parseFloat(c1).toFixed(2);
 }
